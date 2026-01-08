@@ -4,7 +4,7 @@
 
 **Computer Science Student @ Boston University**  
 
-[Email](nikizheng99@gmail.com) ·
+[Email](mailto:nikizheng99@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/litingzheng/) ·
 [GitHub](https://github.com/99Niki)
 
