@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Liting(Niki) Zheng 👋
 
 <!--
 **99Niki/99Niki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Computer Scenience Student at Boston University
+
