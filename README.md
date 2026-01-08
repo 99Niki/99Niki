@@ -2,8 +2,6 @@
 
 ## Hi, I'm Liting(Niki) Zheng 👋
 
-**Computer Science Student @ Boston University**  
-
 [Email](mailto:nikizheng99@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/litingzheng/) ·
 [GitHub](https://github.com/99Niki)
@@ -12,7 +10,7 @@
 
 ## About
 
-I am an undergraduate student in **Computer Science ** at Boston University.
+I am an undergraduate student in **Computer Science** at Boston University.
 
 My interests focus on:
 
@@ -21,7 +19,6 @@ My interests focus on:
 
 I aim to build **clear, reliable, and secure systems**, combining AI techniques with solid software engineering a.
 
----
 
 ## Skills
 
