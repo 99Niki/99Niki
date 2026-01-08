@@ -1,18 +1,29 @@
-## Hi I am Liting(Niki) Zheng 👋
+<div align="center">
 
-<!--
-**99Niki/99Niki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Liting(Niki) Zheng 👋
 
-Here are some ideas to get you started:
+**Computer Science Student @ Boston University**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Computer Scenience Student at Boston University
+[Email](nikizheng99@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/litingzheng/) ·
+[GitHub](Lhttps://github.com/99Niki)
 
+</div>
+
+## About
+
+I am an undergraduate student in **Computer Science ** at Boston University.
+
+My interests focus on:
+
+- machine learning   
+- backend and full-stack development  
+
+I aim to build **clear, reliable, and secure systems**, combining AI techniques with solid software engineering a.
+
+---
+
+## Skills
+
+**Languages:** Python, Java, TypeScript, JavaScript, HTML/CSS, C/C++, MATLAB, OCaml
+**Frameworks & Tools:** Next.js, React.js, Node.js, Express.js, JavaFX, Vue.js, React Native,Docker, Git  
