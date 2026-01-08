@@ -6,7 +6,7 @@
 
 [Email](nikizheng99@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/litingzheng/) ·
-[GitHub](Lhttps://github.com/99Niki)
+[GitHub](https://github.com/99Niki)
 
 </div>
 
