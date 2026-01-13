@@ -23,4 +23,9 @@ I aim to build **clear, reliable, and secure systems**, combining AI techniques 
 ## Skills
 
 **Languages:** Python, Java, TypeScript, JavaScript, HTML/CSS, C/C++, MATLAB, OCaml
+
 **Frameworks & Tools:** Next.js, React.js, Node.js, Express.js, JavaFX, Vue.js, React Native,Docker, Git  
+
+
+ 
+
