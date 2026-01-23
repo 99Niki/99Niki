@@ -10,7 +10,7 @@
 
 ## About
 
-I am an undergraduate student in **Computer Science** at Boston University.
+I am an undergraduate student studying **Computer Science** at Boston University.
 
 My interests focus on:
 - Frontend and full-stack development 
