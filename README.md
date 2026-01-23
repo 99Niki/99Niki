@@ -13,16 +13,17 @@
 I am an undergraduate student in **Computer Science** at Boston University.
 
 My interests focus on:
-
-- machine learning   
-- backend and full-stack development  
+- Frontend and full-stack development 
+- Machine learning
+- Data Analytics
+ 
 
 I aim to build **clear, reliable, and secure systems**, combining AI techniques with solid software engineering a.
 
 
 ## Skills
 
-**Languages:** Python, Java, TypeScript, JavaScript, HTML/CSS, C/C++, MATLAB, OCaml
+**Languages:** Python, Java, TypeScript, JavaScript, HTML/CSS, C/C++, Go, MATLAB, OCaml, 
 
 **Frameworks & Tools:** Next.js, React.js, Node.js, Express.js, JavaFX, Vue.js, React Native,Docker, Git  
 
