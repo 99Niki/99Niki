@@ -13,9 +13,8 @@
 I am an undergraduate student studying **Computer Science** at Boston University.
 
 My interests focus on:
-- Frontend and full-stack development 
+- Full-stack development 
 - Machine learning
-- Data Analytics
  
 
 I aim to build **clear, reliable, and secure systems**, combining AI techniques with solid software engineering a.
