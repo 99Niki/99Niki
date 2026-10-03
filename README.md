@@ -8,15 +8,12 @@
 
 </div>
 
-## About
-
 I am an undergraduate student studying **Computer Science** at Boston University.
 
 My interests focus on:
 - Full-stack development 
 - Machine learning
  
-
 I aim to build **clear, reliable, and secure systems**, combining AI techniques with solid software engineering a.
 
 
